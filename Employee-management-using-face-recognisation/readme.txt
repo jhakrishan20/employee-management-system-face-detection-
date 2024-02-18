@@ -20,10 +20,10 @@ Database (mongodb): Stores employee information and attendance records securely.
 Getting Started<br>
 To set up the Employee Attendance System:<br>
 1. Open the "Employee-management-using-face-recognisation" folder as your root directory.
+2. Cut all files present in 'src' folder and copy them to root directory.
 2. Install the required dependencies specified in the package.json file.
-3. Configure the system settings, including database connection and face recognition models.
+3. Configure the system settings, including database connection and face recognition models. (already configured)
 4. Run the server.js file present in src directory by typing -
-   cd src
    node server.js  or  npm run dev
 5. Click on the link of local host to open the application in your browser
 6. To use the application -
